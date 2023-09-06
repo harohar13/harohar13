@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harohar13
+- 👋 Hi, I’m Harohar K S
 - 👀 I’m interested in AI, art and programming
 - 🌱 I’m currently learning Node.js
 - 💞️  I'm looking to collaborate on Open-source Projects.
