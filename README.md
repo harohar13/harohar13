@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harohar K S
 - 👀 I’m interested in AI, art and programming
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React
 - 💞️  I'm looking to collaborate on Open-source Projects.
 - 📫 How to reach me: haroharisdead@gmail.com
   
